@@ -14,3 +14,9 @@ function readMore(desc) {
         }
     }
 }
+$(".navbar-collapse a").click(function() {
+    $(".navbar-collapse").collapse("hide");
+});
+$(".navbar-toggler-icon").click(function() {
+    $(".navbar-collapse").collapse("hide");
+});
