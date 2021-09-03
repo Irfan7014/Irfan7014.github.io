@@ -140,6 +140,38 @@ body {
 }
 
 
+/*While Loop*/
+
+.skill-and-desc {
+    margin-top: 2%;
+    font-size: 2rem;
+}
+
+.while-start {
+    color: #DF7861;
+}
+
+.while-eat {
+    padding-left: 13%;
+    color: #FCF8E8;
+}
+
+.while-sleep {
+    padding-left: 13%;
+    color: #ECB390;
+}
+
+.while-code {
+    padding-left: 13%;
+    color: #D4E2D4;
+}
+
+.while-end {
+    padding-left: 10%;
+    color: #DF7861;
+}
+
+
 /*Education Section*/
 
 .crce-logo,
